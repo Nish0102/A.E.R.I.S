@@ -5,7 +5,7 @@ from datetime import datetime
 import time
 import os
 
-# ========== CONFIGURATION ==========
+# ========== CONFIGURATION ==========viyyigg
 # These get patched live via /email/config in app.py
 SENDER_EMAIL   = "your@gmail.com"
 APP_PASSWORD   = "xxxx xxxx xxxx xxxx"   # Gmail App Password (NOT your real password)
